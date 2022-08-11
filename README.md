@@ -11,4 +11,4 @@ Concepts Learned:
 # 2. PySpark: An interface for Apache Spark in Python
 Concepts Learned:
 1. Exploratory Data Analysis at scale using PySpark.
-2. Databricks: Cloud-Based Data Engineering tool to process huge amount of data distributed across multiple clusters or parallel procesing
+2. <b>Databricks:</b> Cloud-Based Data Engineering tool to process huge amount of data distributed across multiple clusters or parallel processing
